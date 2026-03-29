@@ -5,6 +5,8 @@ Direct toepasbare antwoorden op veelgestelde vragen.
 ---
 
 ## 🖼️ Afbeelding naast tekst (objectpagina)
+**Tags:** layout, afbeelding, objectpagina
+
 Gebruik:
 $LAYOUT3 = 1
 
