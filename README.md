@@ -9,6 +9,10 @@ Dit platform is bedoeld om kennis over ZCBS te verzamelen en delen, zoals:
 
 ---
 
+## ⚡ Snelle oplossingen
+
+- [Snippets (directe antwoorden)](docs/snippets.md)
+
 ## 📚 INSERTs
 
 - [INSERT111 – Uitklapbaar alfabet](docs/inserts/INSERT111.md)
