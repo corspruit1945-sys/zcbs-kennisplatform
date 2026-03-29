@@ -17,3 +17,7 @@ Dit platform is bedoeld om kennis over ZCBS te verzamelen en delen, zoals:
 ---
 
 💡 Doel: sneller oplossingen vinden zonder alles zelf te moeten uitzoeken
+
+## 📢 Wat is nieuw
+
+- [Overzicht updates](docs/whats-new/overzicht.md)
