@@ -12,7 +12,7 @@
 
 ## 🔧 Belangrijkste wijzigingen
 
-*(Nog toe te voegen — samenvatting uit PDF)*
+*Samenvatting volgt (op basis van PDF-documentatie)*
 
 ---
 
