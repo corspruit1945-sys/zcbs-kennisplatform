@@ -3,7 +3,7 @@
 Hier vind je alle ZCBS updates per versie.
 Klik op een versie voor details en documentatie.
 
-## 📦 Versies
+## 📦 Alle versies
 ## 🔥 Nieuwste versie
 
 - [ZCBS 4.18](ZCBS-4.18.md)
