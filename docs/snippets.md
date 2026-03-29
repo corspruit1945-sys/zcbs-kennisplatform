@@ -5,13 +5,20 @@ Direct toepasbare antwoorden op veelgestelde vragen.
 
 ## 🔄 Volgorde velden aanpassen (objectpagina)
 
-Gebruik een INSERT om de volgorde van velden te wijzigen.
+Gebruik INSERT141 om de volgorde van velden te bepalen.
 
-Bijvoorbeeld:
-$INSERT141
+Voorbeeld:
+
+require "misc/insertlib.pm";
+
+&INSERT141 ("2,blanco,25,5,7,blanco,28,8,11,9,6,26"); ## extern
+&INSERT141 ("15,blanco,31,17,16,30,12,13,blanco,20,10,blanco,21,27,19"); ## intern
+
+👉 Getallen = veldnummers  
+👉 "blanco" = lege regel  
+
 📖 Zie ook:
-Technische documentatie – INSERTs (hoofdstuk volgorde velden)
----
+Technische documentatie – INSERTs (INSERT141)
 
 ## 🖼️ Afbeelding naast tekst (objectpagina)
 **Tags:** layout, afbeelding, objectpagina
