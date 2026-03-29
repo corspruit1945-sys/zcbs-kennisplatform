@@ -6,7 +6,7 @@
 
 ## 📄 Documentatie
 
-- [Bekijk volledige PDF](pdf/ZCBS-4.02.pdf)
+- [Bekijk volledige documentatie (PDF)](pdf/ZCBS-4.02.pdf)
 
 ---
 
