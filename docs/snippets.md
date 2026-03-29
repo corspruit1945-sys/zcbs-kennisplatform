@@ -2,6 +2,15 @@
 
 Direct toepasbare antwoorden op veelgestelde vragen.
 
+
+## 🔄 Volgorde velden aanpassen (objectpagina)
+
+Gebruik een INSERT om de volgorde van velden te wijzigen.
+
+Bijvoorbeeld:
+$INSERT141
+📖 Zie ook:
+Technische documentatie – INSERTs (hoofdstuk volgorde velden)
 ---
 
 ## 🖼️ Afbeelding naast tekst (objectpagina)
