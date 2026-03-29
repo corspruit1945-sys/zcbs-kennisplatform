@@ -1,6 +1,8 @@
 # 🔧 Snelle oplossingen ZCBS (Snippets)
 
 Direct toepasbare antwoorden op veelgestelde vragen.
+⚠️ Deze documentatie is voor:
+ZCBS beeldbank (cfg-cbs.pl, INSERTs, Perl)
 
 
 ## 🔄 Volgorde velden aanpassen (objectpagina)
