@@ -1,2 +1,0 @@
-# zcbs-kennisplatform
-zcbs-test
