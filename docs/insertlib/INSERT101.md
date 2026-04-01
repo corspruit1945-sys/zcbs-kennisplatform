@@ -1,32 +1,33 @@
 # INSERT101
 
 ## Titel
-
-Linkblok: verwijder de losse (1)
+Linkblok : verwijder de losse (1)
 
 ## Toepassing
-
 Linkblok
 
 ## Probleem
+Ik wil linkblok : verwijder de losse (1)
+Hoe kan ik linkblok : verwijder de losse (1)
+Ik zoek een oplossing voor linkblok : verwijder de losse (1)
+In het linkblok op de homepage worden de waarden van de velden die slechts een keer voorkomen niet meer getoond met een 
 
-Ik wil de (1) achter items in het linkblok verwijderen
-Ik wil aantallen niet tonen in linkblok
-Die (1) achter items moet weg
 
 ## Oplossing
-
 Gebruik INSERT101
 
 ## Code
+&INSERT101;
 
+## Met parameters
+&INSERT101;
+
+## Voorbeeld
+require "misc/insertlib.pm"; 
 &INSERT101;
 
 ## Uitleg
-
-Verwijdert de (1) bij velden die maar één keer voorkomen in het linkblok.
+In het linkblok op de homepage worden de waarden van de velden die slechts een keer voorkomen niet meer getoond met een (1).
 
 ## Tags
-
-linkblok aantallen verwijderen lijst teller
-
+linkblok : verwijder de losse (1) linkblok

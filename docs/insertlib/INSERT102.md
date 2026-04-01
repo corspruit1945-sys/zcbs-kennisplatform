@@ -1,36 +1,36 @@
 # INSERT102
 
 ## Titel
-
-Homepage: mutaties uitschakelen
+Homepage : tijdelijk uitschakelen mutaties
 
 ## Toepassing
-
 Homepage
 
 ## Probleem
+Ik wil homepage : tijdelijk uitschakelen mutaties
+Hoe kan ik homepage : tijdelijk uitschakelen mutaties
+Ik zoek een oplossing voor homepage : tijdelijk uitschakelen mutaties
+De mogelijkheid van muteren kan tijdelijk worden uitgeschakeld. Onder meer de edit mogelijkheiden worden daarbij uitgesc
 
-Ik wil mutaties tijdelijk uitschakelen
-Gebruikers mogen niets aanpassen
-Website moet tijdelijk op slot
 
 ## Oplossing
-
 Gebruik INSERT102
 
 ## Code
-
 &INSERT102;
 
 ## Met parameters
+&INSERT102("Tekst");
 
-&INSERT102("eigen tekst");
+## Voorbeeld
+require "misc/insertlib.pm"; 
+&INSERT102 ("==== UITVOEREN VAN MUTATIES IS TIJDELIJK NIET MOGELIJK ====");
 
 ## Uitleg
-
-Schakelt mutaties tijdelijk uit en toont een melding bovenaan de homepage.
+De mogelijkheid van muteren kan tijdelijk worden uitgeschakeld. Onder meer de edit mogelijkheiden worden daarbij uitgeschakeld. 
+Bovenaan de homepage wordt daarbij de volgende default tekst geplaatst: 
+   ==== UITVOEREN VAN MUTATIES IS TIJDELIJK NIET MOGELIJK ==== 
+Deze tekst is via het argument van de INSERT-aanroep aan te passen.
 
 ## Tags
-
-homepage blokkeren mutaties uitschakelen tijdelijk slot
-
+homepage : tijdelijk uitschakelen mutaties homepage
