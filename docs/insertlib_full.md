@@ -47,7 +47,10 @@ Homepage
 Ik wil homepage : tijdelijk uitschakelen mutaties
 Hoe kan ik homepage : tijdelijk uitschakelen mutaties
 Ik zoek een oplossing voor homepage : tijdelijk uitschakelen mutaties
-De mogelijkheid van muteren kan tijdelijk worden uitgeschakeld. Onder meer de edit mogelijkheiden worden daarbij uitgesc
+De mogelijkheid van muteren kan tijdelijk worden uitgeschakeld. Onder meer de edit mogelijkheiden worden daarbij uitgeschakeld.
+
+Let op:
+Alleen mutaties worden geblokkeerd, de beeldbank blijft zichtbaar voor bezoekers.
 
 
 ## Oplossing
