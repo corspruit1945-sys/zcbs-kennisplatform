@@ -200,3 +200,56 @@ Waarom:
 Systeem toont alleen gekoppelde bestanden
 
 ---
+## Probleem: carrousel werkt niet
+
+Herkenning:
+- "carrousel werkt niet"
+- "extra afbeeldingen niet zichtbaar"
+
+Oorzaak:
+Er is geen (of verkeerd) veld ingesteld voor de carrousel
+
+Oplossing:
+Controleer of een vrij veld is ingesteld in de configuratie voor de carrousel
+
+Waarom:
+De carrousel gebruikt een specifiek veld om extra afbeeldingen op te halen
+
+Verwijzing:
+Zie config-map voor $VELD_CARROUSEL
+
+## Probleem: afbeelding geüpload maar niet zichtbaar
+
+Herkenning:
+- "upload gelukt maar niets zichtbaar"
+- "afbeelding ontbreekt"
+
+Oorzaak:
+Bestand is niet correct gekoppeld of naam klopt niet
+
+Oplossing:
+1. Controleer bestandsnaam
+2. Controleer of bestand correct is geüpload
+3. Controleer koppeling met record
+
+Waarom:
+Alleen correct gekoppelde bestanden worden weergegeven
+
+## Probleem: zoek en vervang werkt niet
+
+Herkenning:
+- "zoek en vervang werkt niet"
+- "wijziging wordt niet doorgevoerd"
+
+Oorzaak:
+Procedure of syntax in input.txt is niet correct
+
+Oplossing:
+1. Maak eerst een backup
+2. Voer een merge uit
+3. Controleer syntax van input.txt
+4. Controleer hoofdletters en veldnummer
+
+Waarom:
+De tool werkt alleen bij exacte syntax en juiste volgorde
+
